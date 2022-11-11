@@ -1,3 +1,10 @@
+##IMPORTANT NOTE:
+
+This repo is no longer in use. If you are looking for the Common API specs, please go to:
+
+https://github.com/swissfintechinnovations
+
+<!--
 ## Introduction
 
 This repository hosts the current OpenAPI specification files. Its documentation can be found here:
@@ -17,3 +24,4 @@ Use these steps to clone from SourceTree. Cloning allows you to work on the file
 ## Make changes to the repository
 
 In order to make any changes, please create a new [feature branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#creating-a-branch). To upload changes, please create a [pull request](https://github.com/swissfintechinnovations/common-API/pulls), in order to discuss your changes before merging them into the master branch.
+-->
