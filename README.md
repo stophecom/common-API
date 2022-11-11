@@ -1,8 +1,8 @@
 ```diff
 - IMPORTANT NOTE: This repo is no longer in use. If you are looking for the Common API specs, please move on to:
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
+https://github.com/swissfintechinnovations
+
 ```
 
 ##IMPORTANT NOTE:
