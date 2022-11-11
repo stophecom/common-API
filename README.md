@@ -1,5 +1,5 @@
 ```diff
-- IMPORTANT NOTE: This repo is no longer in use. If you are looking for the Common API specs, please move on to -
+- IMPORTANT NOTE: Repo no longer in use. For the Common API specs, please move on to -
 ```
 https://github.com/swissfintechinnovations
 
