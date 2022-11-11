@@ -1,4 +1,11 @@
-<FONT COLOR="#ff0000">xx
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ##IMPORTANT NOTE:
 
 This repo is no longer in use. If you are looking for the Common API specs, please move on to:
