@@ -1,6 +1,5 @@
 ```diff
-- text in red
-+ text in green
+- IMPORTANT NOTE: This repo is no longer in use. If you are looking for the Common API specs, please move on to:
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
@@ -8,7 +7,7 @@
 
 ##IMPORTANT NOTE:
 
-This repo is no longer in use. If you are looking for the Common API specs, please move on to:
+
 
 https://github.com/swissfintechinnovations
 
