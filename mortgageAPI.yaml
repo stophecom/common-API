@@ -2931,7 +2931,7 @@ components:
         base:
           type: number
           format: double
-          description: 'Base rate uupon margin is applied (e.g. for SARON).'
+          description: 'Base rate upon margin is applied (e.g. for SARON).'
           minimum: 0
           maximum: 1
           example: 0.5
